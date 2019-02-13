@@ -1,0 +1,31 @@
+.head{
+    width: 25px;
+    height:25px;
+}
+
+.Forecast{
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-size:24; 
+    font-weight: bold
+}  
+.days{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-weight: bolder
+}
+.Monday{
+    background-color: lightyellow;
+    width: 350px;
+    height:350px;
+    border: 5px dotted grey    
+}
+.Tuesday{
+    width: 350px;
+    height:350px;
+    border: 5px dotted grey
+}
+.Wednesday{
+    background-color: lightgray;
+    width: 350px;
+    height:350px;
+    border: 5px dotted grey
+}
